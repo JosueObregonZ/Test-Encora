@@ -324,5 +324,3 @@ Verifica que se haya desplegado el mensaje de éxito en el registro.
 - `NoSuchElementException`: Se lanza si un elemento no se encuentra en la página.
 - `TimeoutException`: Se lanza si la espera para encontrar un elemento expira.
 - `RuntimeException`: Se lanza para errores generales en los métodos de la clase.
-
-
