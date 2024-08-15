@@ -53,8 +53,6 @@ Proporciona métodos para inicializar el navegador, abrir la página de inicio d
 
 ## Configuración
 
-### Dependencias
-
 
 --------------------------
 
